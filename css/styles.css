@@ -1,0 +1,126 @@
+body {
+   font-family: 'Roboto', Raleway;
+      background-color: #FFFFFF;
+      color: #212121;
+      line-height: 1.5;
+   
+}
+/* розмір та колір лого */
+.logo1{
+font-family: Raleway;
+font-size: 26px;
+font-weight:400;
+line-height: 1.2;
+color: #212121;
+}
+/* розмір та колір другої частини лого */
+.accent{
+   font-family: Raleway;
+      font-size: 26px;
+      font-weight: 400;
+      line-height: 1.2;
+color: #2196F3;
+}
+/* колір активної кнопки студія і портфоліо */
+.stydio,.portfolio{
+   color: #2196F3;
+   color: #2196F3;
+}
+/*  */
+.site-nav-list{
+font-size: 14px;
+   font-weight: 500;
+   line-height: 1.14;
+}
+/*  */
+.site-nav-address,.mail{
+   font-size: 14px;
+      font-weight: 500;
+      line-height: 1.14;
+      color: #2196F3;
+
+}
+/* ховер фокус хедер */
+.site-nav-address li a:hover {
+   color: #2196F3;
+}
+.site-nav-address li a:focus{
+color: #2196F3;
+}
+
+
+/* hero */
+.hero-title{
+   color: #FFFFFF;
+   background-color:#2F303A;
+font-size: 44px;
+   font-weight: 900;
+   line-height: 1.36;
+   text-align: center;
+}
+.site-front {
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 1.14;
+
+}
+.site-p{
+font-size: 14px;
+   font-weight: 400;
+   line-height: 1.7;
+}
+.text-h3 {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 1.18;
+}
+.page-footer{
+background-color: #212121;
+color: #FFFFFF;
+}
+
+.div{
+   color: #FFFFFF;
+}
+   
+
+.link{
+   font-size: 14px;
+      font-weight: 500;
+      line-height: 1.14;
+   color: #FFFFFF;
+}
+.logo2{
+   color: #FFFFFF;
+}
+.button{
+   color: #FFFFFF;
+   background-color: #2196F3;
+   font-size: 16px;
+      font-weight: 700;
+      line-height: 1.8;
+}
+.buttonporto{
+font-size: 16px;
+   font-weight: 500;
+   line-height: 1.6;
+   background-color: #F5F4FA;
+   color: #212121;
+}
+.title-b{
+   color: #FFFFFF;
+   background-color: #2196F3;
+   font-size: 16px;
+      font-weight: 500;
+      line-height: 1.6;
+}
+/* ховер фокус футер */
+.contact :hover{
+   color: #2196F3;
+}
+.contact :focus{
+   color: #2196F3;
+}
+
+
+
