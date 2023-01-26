@@ -112,15 +112,6 @@ background-color:var(--backfocus-button-color);
 color:var(--site-buttontwo-color);
 }
 
-.button-on{
-   color:var(--site-buttonon-color);
-   background-color: var(--background-buttontwo-color);
-   font-family: 'Roboto';
-font-weight: 500;
-font-size: 16px;
-line-height:1.6;
-  
-}
 
 
 /* ховер фокус хедер */
@@ -220,6 +211,7 @@ line-height:1.6;
 .contact :focus {
    color:var(--contact-focus-color);
 }
+
 
 a {
    text-decoration: none;
