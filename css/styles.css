@@ -5,7 +5,7 @@
    --site-logotwo-color:#2196F3;
    --primary-text-color:#212121;
    --site-nav-color:#2196F3;
-   --site-background-color:#FFFFFF;
+   --site-background-color:#F5F5F5;
    --site-button-color:#2196F3;
    --site-kontack-color:#2F303A;
    --background-button-color:#F5F4FA;
@@ -17,7 +17,8 @@
    --background-hero-color:#2F303A;
    --post-text-color:#757575;
    --footer-text-color:#FFFFFF;
-   --backgroud-footer-color:#212121;
+   --background-footer-color:#212121;
+   --background-header-color:#FFFFFF;
    --contact-hover-color:#2196F3;
    --contact-focus-color:#2196F3;
    --site-teamback-color:#F5F4FA;
@@ -31,7 +32,9 @@ body {
    font-size: 14px;
    letter-spacing: 0.03em;
 }
-
+.page-header{
+   background-color:var(--background-header-color);
+}
 
 /* розмір та колір лого */
 .logo-one {
@@ -192,7 +195,7 @@ line-height:1.6;
 }
 
 .page-footer {
-   background-color:var(--backgroud-footer-color);
+   background-color:var(--background-footer-color);
    color:var(--footer-text-color);
 }
 
