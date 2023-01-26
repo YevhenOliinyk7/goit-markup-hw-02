@@ -23,17 +23,12 @@
 }
 
 
-
-
 body {
    font-family: 'Roboto',sans-serif ;
    background-color:var(--site-background-color)
    color: var(--primary-text-color)
    font-size: 14px;
    letter-spacing: 0.03em;
-   
-   
-
 }
 
 
@@ -101,7 +96,6 @@ color:var(--site-kontack-color);
    font-family: 'Roboto';
       font-weight: 500;
       font-size: 16px;
-      letter-spacing: 0.03em;
       
 }
 .filtre-button:hover{
@@ -119,8 +113,7 @@ color:var(--site-buttontwo-color);
    font-family: 'Roboto';
 font-weight: 500;
 font-size: 16px;
-letter-spacing: 0.03em;
-   
+  
 }
 
 
@@ -160,36 +153,33 @@ letter-spacing: 0.03em;
 .post-title{
    font-weight: 700;
       line-height: 16px;
-      letter-spacing: 0.03em;
+  
    
 }
 .post-text{
    color:var(--post-text-color);
    font-size: 16px;
-   letter-spacing: 0.03em;
+ 
 }
 
 .web-work{
    font-weight: 700;
       font-size: 36px;
       text-align: center;
-         letter-spacing: 0.03em;
+ 
 }
 
 .my-team{
    font-weight: 700;
       font-size: 36px;
       text-align: center;
-      letter-spacing: 0.03em;
 }
 .team-title{
    font-weight: 500;
       font-size: 16px;
-      letter-spacing: 0.03em;
 }
 .team-text{
    font-size: 16px;
-   letter-spacing: 0.03em;
    
 }
 
@@ -202,7 +192,6 @@ letter-spacing: 0.03em;
    font-style: normal;
    font-weight: 500;
    line-height: 1.14;
-   letter-spacing: 0.03em;
    color:var(--footer-text-color);
 }
 
