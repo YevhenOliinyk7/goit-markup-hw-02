@@ -60,9 +60,7 @@ body {
    color:var(--site-button-color);
 }
 
-/*  */
-
-
+/*колір навігаціі тексту*/
 .site-nav-list,
 .kontakt: {
    color:var(--site-kontack-color);
@@ -71,7 +69,7 @@ body {
    letter-spacing: 0.02em;
 }
 
-/*  */
+/* розміри навігаціі */
 .site-nav-address{
    letter-spacing: 0.02em;
    font-weight: 500;
@@ -96,7 +94,7 @@ color:var(--site-kontack-color);
    line-height: 1.14;
    letter-spacing: 0.02em;
 }
-
+/* кнопки в портфоліо */
 .filtre-button{
    border-radius: 4px;
    background-color:var(--background-button-color);
@@ -136,7 +134,7 @@ letter-spacing: 0.03em;
 }
 
 
-
+/* герой сторінка студія */
 .hero-title {
    color:var(--hero-title-color);
    background-color:var(--background-hero-color);
@@ -146,6 +144,7 @@ letter-spacing: 0.03em;
    text-align: center;
    letter-spacing: 0.06em;
 }
+/* кнопка сторінки студія */
 .hero-button{
    font-family: 'Roboto';
    background-color:var(--background-buttontwo-color);
