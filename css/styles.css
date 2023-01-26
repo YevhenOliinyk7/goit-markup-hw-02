@@ -96,6 +96,7 @@ color:var(--site-kontack-color);
    font-family: 'Roboto';
       font-weight: 500;
       font-size: 16px;
+      line-height:1.6;
       
 }
 .filtre-button:hover{
@@ -113,6 +114,7 @@ color:var(--site-buttontwo-color);
    font-family: 'Roboto';
 font-weight: 500;
 font-size: 16px;
+line-height:1.6;
   
 }
 
@@ -144,6 +146,7 @@ font-size: 16px;
    border-radius: 4px;
    font-weight: 700;
    font-size: 16px;
+   line-height:1.6;
    letter-spacing: 0.06em;
    text-align: center;
    color:var(--site-buttonon-color);
@@ -177,9 +180,11 @@ font-size: 16px;
 .team-title{
    font-weight: 500;
       font-size: 16px;
+      line-height:1.1;
 }
 .team-text{
    font-size: 16px;
+   line-height: 1.1;
    
 }
 
