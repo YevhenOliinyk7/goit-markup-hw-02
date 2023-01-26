@@ -20,6 +20,7 @@
    --backgroud-footer-color:#212121;
    --contact-hover-color:#2196F3;
    --contact-focus-color:#2196F3;
+   --site-teamback-color:#F5F4FA;
 }
 
 
@@ -151,7 +152,9 @@ line-height:1.6;
    text-align: center;
    color:var(--site-buttonon-color);
 }
-
+.my-teamback{
+   background-color:var(--site-teamback-color)
+}
 
 .post-title{
    font-weight: 700;
