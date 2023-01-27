@@ -27,8 +27,8 @@
 
 body {
    font-family: 'Roboto',sans-serif ;
-   background-color:var(--site-background-color)
-   color: var(--primary-text-color)
+   background-color:var(--site-background-color);
+   color: var(--primary-text-color);
    font-size: 14px;
    letter-spacing: 0.03em;
 }
@@ -38,7 +38,7 @@ body {
 
 /* розмір та колір лого */
 .logo-one {
-   font-family: Raleway;
+   font-family: 'Raleway',sans-serif;
    font-size: 26px;
    font-weight: 400;
    line-height: 1.2;
@@ -61,7 +61,7 @@ body {
 
 /*колір навігаціі тексту*/
 .site-nav-list,
-.kontakt: {
+.kontakt {
    color:var(--site-kontack-color);
    font-weight: 500;
    line-height: 1.14;
@@ -73,14 +73,14 @@ body {
    letter-spacing: 0.02em;
    font-weight: 500;
    line-height: 1.14;
-   color:var(--site-kontack-color)
+   color:var(--site-kontack-color);
 
 }
 .kontakt {
-   color: var(--site-kontack-color)
+   color: var(--site-kontack-color);
 }
 .kontakt {
-   color: var(--site-kontack-color)
+   color: var(--site-kontack-color);
 }
 .site-nav-list,.kontakt:hover{
    color:var(--site-nav-color);
@@ -133,10 +133,11 @@ color:var(--site-buttontwo-color);
    line-height: 1.36;
    text-align: center;
    letter-spacing: 0.06em;
+   text-transform: uppercase;
 }
 /* кнопка сторінки студія */
 .hero-button{
-   font-family: 'Roboto';
+   font-family: 'Roboto',sans-serif;
    background-color:var(--background-buttontwo-color);
    border-radius: 4px;
    font-weight: 700;
@@ -147,18 +148,24 @@ color:var(--site-buttontwo-color);
    color:var(--site-buttonon-color);
 }
 .my-teamback{
-   background-color:var(--site-teamback-color)
+   background-color:var(--site-teamback-color);
 }
 
 .post-title{
    font-weight: 700;
-      line-height: 16px;
+   font-size: 14px;
+   line-height: 1.14;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+      
   
    
 }
 .post-text{
    color:var(--post-text-color);
-   font-size: 16px;
+   font-size: 14px;
+   line-height:1.7;
+   letter-spacing: 0.03em;
  
 }
 
@@ -180,8 +187,10 @@ color:var(--site-buttontwo-color);
       line-height:1.1;
 }
 .team-text{
+   color:var(--post-text-color);
    font-size: 16px;
    line-height: 1.1;
+   letter-spacing: 0.03em;
    
 }
 
